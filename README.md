@@ -1,6 +1,6 @@
 ## Rider Johnson
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/riderJohn/riderJohn/blob/main/blank_profile_image.jpg)
+![alt text](https://github.com/riderJohn/riderJohn/blob/main/blank_profile_image.jpg)
 
 <!--
 **riderJohn/riderJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
